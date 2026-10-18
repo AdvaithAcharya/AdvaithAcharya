@@ -413,7 +413,7 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
 
 <!-- Dev Joke / Quote of the Day Widget -->
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=0D1117&borderColor=00F0FF&textColor=E2E8F0&qColor=00F0FF" alt="Dev Joke / Quote of the Day" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=%230D1117&borderColor=%23A855F7&textColor=%23E2E8F0&qColor=%23C084FC" alt="Dev Joke / Quote of the Day" />
 </div>
 
 <br/>
