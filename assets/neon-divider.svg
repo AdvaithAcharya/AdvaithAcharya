@@ -1,33 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 24" width="100%" height="24" fill="none">
   <defs>
-    <!-- Neon Linear Gradient with animated stops -->
-    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.1">
+    <!-- Krypton Ember & Threat-Red Linear Gradient with animated energy stops -->
+    <linearGradient id="kryptonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#340E00" stop-opacity="0.1">
         <animate attributeName="stop-opacity" values="0.1;0.8;0.1" dur="3s" repeatCount="indefinite" />
       </stop>
-      <stop offset="25%" stop-color="#00F0FF" stop-opacity="0.9">
-        <animate attributeName="offset" values="0.2;0.3;0.2" dur="4s" repeatCount="indefinite" />
+      <stop offset="25%" stop-color="#E8602E" stop-opacity="0.9">
+        <animate attributeName="offset" values="0.2;0.32;0.2" dur="4s" repeatCount="indefinite" />
       </stop>
-      <stop offset="50%" stop-color="#A855F7" stop-opacity="1">
-        <animate attributeName="stop-color" values="#A855F7;#00F0FF;#22C55E;#A855F7" dur="6s" repeatCount="indefinite" />
+      <stop offset="50%" stop-color="#FF8A5C" stop-opacity="1">
+        <animate attributeName="stop-color" values="#FF8A5C;#F43F5E;#E8602E;#FF8A5C" dur="5s" repeatCount="indefinite" />
       </stop>
-      <stop offset="75%" stop-color="#22C55E" stop-opacity="0.9">
-        <animate attributeName="offset" values="0.7;0.8;0.7" dur="4s" repeatCount="indefinite" />
+      <stop offset="75%" stop-color="#F43F5E" stop-opacity="0.9">
+        <animate attributeName="offset" values="0.68;0.8;0.68" dur="4s" repeatCount="indefinite" />
       </stop>
-      <stop offset="100%" stop-color="#22C55E" stop-opacity="0.1">
+      <stop offset="100%" stop-color="#340E00" stop-opacity="0.1">
         <animate attributeName="stop-opacity" values="0.1;0.8;0.1" dur="3s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
 
-    <!-- Traveling Laser Beam Gradient -->
-    <linearGradient id="beamGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0" />
-      <stop offset="50%" stop-color="#00F0FF" stop-opacity="1" />
-      <stop offset="100%" stop-color="#A855F7" stop-opacity="0" />
-    </linearGradient>
-
-    <!-- Multi-stage Neon Glow Filter -->
-    <filter id="neonGlow" x="-20%" y="-100%" width="140%" height="300%">
+    <!-- Hot Ember Laser Glow Filter -->
+    <filter id="emberGlow" x="-20%" y="-100%" width="140%" height="300%">
       <feGaussianBlur stdDeviation="3.5" result="blur1" />
       <feGaussianBlur stdDeviation="1.5" result="blur2" />
       <feMerge>
@@ -39,52 +32,45 @@
   </defs>
 
   <style>
-    .glow-line {
-      filter: url(#neonGlow);
-    }
-    .pulse-core {
-      animation: pulse 2.5s ease-in-out infinite alternate;
-    }
-    @keyframes pulse {
-      0% { opacity: 0.6; transform: scale(0.98); }
-      100% { opacity: 1; transform: scale(1.02); }
+    .glow-ember {
+      filter: url(#emberGlow);
     }
   </style>
 
   <!-- Ambient Outer Glow Line -->
-  <line x1="40" y1="12" x2="860" y2="12" stroke="url(#neonGrad)" stroke-width="3" stroke-linecap="round" class="glow-line" opacity="0.75" />
+  <line x1="40" y1="12" x2="860" y2="12" stroke="url(#kryptonGrad)" stroke-width="3.5" stroke-linecap="round" class="glow-ember" opacity="0.8" />
 
-  <!-- Crisp Core Line -->
-  <line x1="40" y1="12" x2="860" y2="12" stroke="url(#neonGrad)" stroke-width="1.2" stroke-linecap="round" />
+  <!-- Crisp Hot Core Line -->
+  <line x1="40" y1="12" x2="860" y2="12" stroke="url(#kryptonGrad)" stroke-width="1.3" stroke-linecap="round" />
 
-  <!-- Left Cyber Tag Bracket -->
-  <path d="M 30,7 L 22,12 L 30,17" stroke="#00F0FF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="glow-line" />
-  <circle cx="15" cy="12" r="2" fill="#00F0FF">
+  <!-- Left Tactical Bracket -->
+  <path d="M 30,7 L 22,12 L 30,17" stroke="#E8602E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="glow-ember" />
+  <circle cx="14" cy="12" r="2" fill="#E8602E">
     <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite" />
   </circle>
 
-  <!-- Right Cyber Tag Bracket -->
-  <path d="M 870,7 L 878,12 L 870,17" stroke="#22C55E" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="glow-line" />
-  <circle cx="885" cy="12" r="2" fill="#22C55E">
+  <!-- Right Tactical Bracket -->
+  <path d="M 870,7 L 878,12 L 870,17" stroke="#F43F5E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="glow-ember" />
+  <circle cx="886" cy="12" r="2" fill="#F43F5E">
     <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite" />
   </circle>
 
-  <!-- Center Hex/Diamond Matrix Core -->
+  <!-- Center Active Defense Shield Core -->
   <g transform="translate(450, 12)">
-    <!-- Outer Glow Diamond -->
-    <polygon points="0,-9 9,0 0,9 -9,0" fill="#0D1117" stroke="#A855F7" stroke-width="1.8" class="glow-line">
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite" />
+    <!-- Outer Rotating Diamond Reticle -->
+    <polygon points="0,-10 10,0 0,10 -10,0" fill="#000000" stroke="#E8602E" stroke-width="1.8" class="glow-ember">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite" />
     </polygon>
-    <!-- Inner Glowing Core -->
-    <circle cx="0" cy="0" r="3.2" fill="#00F0FF" class="glow-line">
-      <animate attributeName="r" values="2.5;3.8;2.5" dur="2s" repeatCount="indefinite" />
-      <animate attributeName="fill" values="#00F0FF;#A855F7;#22C55E;#00F0FF" dur="6s" repeatCount="indefinite" />
+    <!-- Inner Pulsing Threat Detector -->
+    <circle cx="0" cy="0" r="3.2" fill="#F43F5E" class="glow-ember">
+      <animate attributeName="r" values="2.4;3.8;2.4" dur="2.2s" repeatCount="indefinite" />
+      <animate attributeName="fill" values="#F43F5E;#FF8A5C;#E8602E;#F43F5E" dur="5s" repeatCount="indefinite" />
     </circle>
   </g>
 
-  <!-- Side Accent Markers -->
-  <polygon points="250,9 253,12 250,15 247,12" fill="#00F0FF" opacity="0.85" />
-  <circle cx="270" cy="12" r="1.5" fill="#00F0FF" opacity="0.6" />
-  <polygon points="650,9 653,12 650,15 647,12" fill="#22C55E" opacity="0.85" />
-  <circle cx="630" cy="12" r="1.5" fill="#22C55E" opacity="0.6" />
+  <!-- Tactical Accent Markers -->
+  <polygon points="250,9 253,12 250,15 247,12" fill="#E8602E" opacity="0.9" />
+  <circle cx="270" cy="12" r="1.5" fill="#E8602E" opacity="0.7" />
+  <polygon points="650,9 653,12 650,15 647,12" fill="#F43F5E" opacity="0.9" />
+  <circle cx="630" cy="12" r="1.5" fill="#F43F5E" opacity="0.7" />
 </svg>
