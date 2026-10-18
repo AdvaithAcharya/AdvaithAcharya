@@ -481,7 +481,7 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
 
 <div align="center">
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=AdvaithAcharya&style=for-the-badge&color=00F0FF&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AdvaithAcharya&style=flat-square&color=00F0FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
   <br/><br/>
 
