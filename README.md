@@ -81,12 +81,12 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
         <img src="https://skillicons.dev/icons?i=java,js,ts,py,c,cpp&theme=dark" alt="Languages" />
       </a>
       <br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Java-00F0FF?style=flat-square&logo=openjdk&logoColor=black" alt="Java" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Python-22C55E?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/SQL-A855F7?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
     </td>
   </tr>
   <tr>
@@ -101,7 +101,7 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/HTML5-00F0FF?style=flat-square&logo=html5&logoColor=black" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
     </td>
   </tr>
@@ -142,11 +142,11 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
         <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux&theme=dark" alt="Tools" />
       </a>
       <br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Git-A855F7?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Postman-22C55E?style=flat-square&logo=postman&logoColor=black" alt="Postman" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
     </td>
   </tr>
@@ -265,7 +265,7 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
         Java-based development repository featuring algorithmic solutions, backend utilities, and OOP system modules.
       </p>
       <div align="left">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Java-00F0FF?style=flat-square&logo=openjdk&logoColor=black" alt="Java" />
         <img src="https://img.shields.io/badge/OOP-A855F7?style=flat-square&logoColor=white" alt="OOP" />
         <img src="https://img.shields.io/badge/Algorithms-00F0FF?style=flat-square&logoColor=black" alt="Algorithms" />
         <img src="https://img.shields.io/badge/System_Utilities-22C55E?style=flat-square&logoColor=black" alt="Utils" />
@@ -334,9 +334,9 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
   <br/>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdvaithAcharya/AdvaithAcharya/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdvaithAcharya/AdvaithAcharya/output/github-contribution-grid-snake.svg">
-    <img alt="Advaith's Contribution Snake" src="https://raw.githubusercontent.com/AdvaithAcharya/AdvaithAcharya/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdvaithAcharya/AdvaithAcharya/output/github-contribution-grid-snake-dark.svg?v=cyber">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdvaithAcharya/AdvaithAcharya/output/github-contribution-grid-snake.svg?v=cyber">
+    <img alt="Advaith's Contribution Snake" src="https://raw.githubusercontent.com/AdvaithAcharya/AdvaithAcharya/output/github-contribution-grid-snake-dark.svg?v=cyber" width="100%">
   </picture>
 </div>
 
@@ -447,11 +447,11 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
   </a>
   &nbsp;
   <a href="mailto:advaithacharya2000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/AdvaithAcharya/My_Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=safari&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://twitter.com/YOUR_LINK_HERE" target="_blank">
@@ -459,7 +459,7 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
   </a>
   &nbsp;
   <a href="https://leetcode.com/YOUR_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-22C55E?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   &nbsp;
   <a href="https://github.com/AdvaithAcharya" target="_blank">
