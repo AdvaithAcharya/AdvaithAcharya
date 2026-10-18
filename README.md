@@ -442,28 +442,16 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
   <p><i>Let's connect, exchange ideas, or discuss software engineering & AI security opportunities!</i></p>
   <br/>
 
-  <a href="https://linkedin.com/in/YOUR_LINK_HERE" target="_blank">
+  <a href="https://linkedin.com/in/advaithacharya16" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:advaithacharya2000@gmail.com" target="_blank">
+  <a href="mailto:advaith.23cs005@sode-edu.in" target="_blank">
     <img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://github.com/AdvaithAcharya/My_Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/YOUR_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/YOUR_LINK_HERE" target="_blank">
+  <a href="https://leetcode.com/u/AdvaithAcharya/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-22C55E?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/AdvaithAcharya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
@@ -481,7 +469,9 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
 
 <div align="center">
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=AdvaithAcharya&style=flat-square&color=00F0FF&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://hits.sh/github.com/AdvaithAcharya/">
+    <img src="https://hits.sh/github.com/AdvaithAcharya.svg?style=for-the-badge&color=00F0FF&label=PROFILE%20VIEWS&labelColor=0D1117" alt="Profile Views" />
+  </a>
 
   <br/><br/>
 
