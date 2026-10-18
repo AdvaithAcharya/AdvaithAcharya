@@ -171,32 +171,29 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
 
 <table align="center" width="100%">
   <tr>
-    <!-- Project 1: Krypton-Gateway -->
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/AdvaithAcharya/Krypton-Gateway">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdvaithAcharya&repo=Krypton-Gateway&theme=tokyonight&border_color=00F0FF&border_radius=8&bg_color=0D1117&title_color=00F0FF&text_color=E2E8F0&icon_color=A855F7" width="100%" alt="Krypton-Gateway" />
+      <a href="https://github.com/AdvaithAcharya/My_Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdvaithAcharya&repo=My_Portfolio&theme=tokyonight&border_color=00F0FF&border_radius=8&bg_color=0D1117&title_color=00F0FF&text_color=E2E8F0&icon_color=A855F7" width="100%" alt="My_Portfolio" />
       </a>
       <br/>
       <p align="left">
-        <b>🛡️ Krypton-Gateway</b><br/>
-        Active-Defense AI Gateway mitigating token-burn & Denial-of-Wallet (OWASP LLM10) attacks on GenAI applications.
+        <b>🌐 1. My_Portfolio</b><br/>
+        Personal developer portfolio website showcasing interactive web experiences, architecture, and projects.
       </p>
       <div align="left">
-        <img src="https://img.shields.io/badge/AI_Security-00F0FF?style=flat-square&logo=shield&logoColor=black" alt="AI Security" />
-        <img src="https://img.shields.io/badge/OWASP_LLM10-A855F7?style=flat-square&logoColor=white" alt="OWASP" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-        <img src="https://img.shields.io/badge/Active_Defense-22C55E?style=flat-square&logoColor=black" alt="Active Defense" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Responsive-00F0FF?style=flat-square&logoColor=black" alt="Responsive" />
       </div>
     </td>
-
-    <!-- Project 2: CarePulse -->
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/AdvaithAcharya/CarePulse">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdvaithAcharya&repo=CarePulse&theme=tokyonight&border_color=00F0FF&border_radius=8&bg_color=0D1117&title_color=00F0FF&text_color=E2E8F0&icon_color=A855F7" width="100%" alt="CarePulse" />
       </a>
       <br/>
       <p align="left">
-        <b>🏥 CarePulse</b><br/>
+        <b>🏥 2. CarePulse</b><br/>
         Intelligent Patient Distress Detection System engineered for hospital wards with real-time alerting telemetry.
       </p>
       <div align="left">
@@ -207,54 +204,30 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
       </div>
     </td>
   </tr>
-
   <tr>
-    <!-- Project 3: My_Portfolio -->
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/AdvaithAcharya/My_Portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdvaithAcharya&repo=My_Portfolio&theme=tokyonight&border_color=A855F7&border_radius=8&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0&icon_color=00F0FF" width="100%" alt="My_Portfolio" />
+      <a href="https://github.com/AdvaithAcharya/Krypton-Gateway">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdvaithAcharya&repo=Krypton-Gateway&theme=tokyonight&border_color=A855F7&border_radius=8&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0&icon_color=00F0FF" width="100%" alt="Krypton-Gateway" />
       </a>
       <br/>
       <p align="left">
-        <b>🌐 My_Portfolio</b><br/>
-        Personal developer portfolio website showcasing interactive web experiences, architecture, and projects.
+        <b>🛡️ 3. Krypton-Gateway</b><br/>
+        Active-Defense AI Gateway mitigating token-burn & Denial-of-Wallet (OWASP LLM10) attacks on GenAI applications.
       </p>
       <div align="left">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/Responsive-00F0FF?style=flat-square&logoColor=black" alt="Responsive" />
-      </div>
-    </td>
-
-    <!-- Project 4: ParkVision -->
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/AdvaithAcharya/ParkVision">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdvaithAcharya&repo=ParkVision&theme=tokyonight&border_color=A855F7&border_radius=8&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0&icon_color=00F0FF" width="100%" alt="ParkVision" />
-      </a>
-      <br/>
-      <p align="left">
-        <b>🅿️ ParkVision</b><br/>
-        Real-Time Parking Lot Management System optimizing vehicle occupancy detection and slot allocation.
-      </p>
-      <div align="left">
-        <img src="https://img.shields.io/badge/Real--Time_Systems-00F0FF?style=flat-square&logoColor=black" alt="Real Time" />
-        <img src="https://img.shields.io/badge/Computer_Vision-A855F7?style=flat-square&logoColor=white" alt="CV" />
+        <img src="https://img.shields.io/badge/AI_Security-00F0FF?style=flat-square&logo=shield&logoColor=black" alt="AI Security" />
+        <img src="https://img.shields.io/badge/OWASP_LLM10-A855F7?style=flat-square&logoColor=white" alt="OWASP" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-        <img src="https://img.shields.io/badge/Smart_City-22C55E?style=flat-square&logoColor=black" alt="Smart City" />
+        <img src="https://img.shields.io/badge/Active_Defense-22C55E?style=flat-square&logoColor=black" alt="Active Defense" />
       </div>
     </td>
-  </tr>
-
-  <tr>
-    <!-- Project 5: LumaFix -->
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/AdvaithAcharya/LumaFix">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdvaithAcharya&repo=LumaFix&theme=tokyonight&border_color=22C55E&border_radius=8&bg_color=0D1117&title_color=22C55E&text_color=E2E8F0&icon_color=00F0FF" width="100%" alt="LumaFix" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdvaithAcharya&repo=LumaFix&theme=tokyonight&border_color=A855F7&border_radius=8&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0&icon_color=00F0FF" width="100%" alt="LumaFix" />
       </a>
       <br/>
       <p align="left">
-        <b>🛠️ LumaFix</b><br/>
+        <b>🛠️ 4. LumaFix</b><br/>
         Full-stack web application designed for streamlined IT incident tracking and support report lifecycle management.
       </p>
       <div align="left">
@@ -264,15 +237,31 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
         <img src="https://img.shields.io/badge/REST_API-00F0FF?style=flat-square&logoColor=black" alt="API" />
       </div>
     </td>
-
-    <!-- Project 6: Work -->
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/AdvaithAcharya/ParkVision">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdvaithAcharya&repo=ParkVision&theme=tokyonight&border_color=22C55E&border_radius=8&bg_color=0D1117&title_color=22C55E&text_color=E2E8F0&icon_color=00F0FF" width="100%" alt="ParkVision" />
+      </a>
+      <br/>
+      <p align="left">
+        <b>🅿️ 5. ParkVision</b><br/>
+        Real-Time Parking Lot Management System optimizing vehicle occupancy detection and slot allocation.
+      </p>
+      <div align="left">
+        <img src="https://img.shields.io/badge/Real--Time_Systems-00F0FF?style=flat-square&logoColor=black" alt="Real Time" />
+        <img src="https://img.shields.io/badge/Computer_Vision-A855F7?style=flat-square&logoColor=white" alt="CV" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/Smart_City-22C55E?style=flat-square&logoColor=black" alt="Smart City" />
+      </div>
+    </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/AdvaithAcharya/Work">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdvaithAcharya&repo=Work&theme=tokyonight&border_color=22C55E&border_radius=8&bg_color=0D1117&title_color=22C55E&text_color=E2E8F0&icon_color=00F0FF" width="100%" alt="Work" />
       </a>
       <br/>
       <p align="left">
-        <b>☕ Work</b><br/>
+        <b>☕ 6. Work</b><br/>
         Java-based development repository featuring algorithmic solutions, backend utilities, and OOP system modules.
       </p>
       <div align="left">
