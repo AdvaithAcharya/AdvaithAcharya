@@ -173,7 +173,7 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/AdvaithAcharya/My_Portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdvaithAcharya&repo=My_Portfolio&theme=tokyonight&border_color=00F0FF&border_radius=8&bg_color=0D1117&title_color=00F0FF&text_color=E2E8F0&icon_color=A855F7" width="100%" alt="My_Portfolio" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AdvaithAcharya&repo=My_Portfolio&theme=tokyonight&border_color=00F0FF&border_radius=8&bg_color=0D1117&title_color=00F0FF&text_color=E2E8F0&icon_color=A855F7" width="100%" alt="My_Portfolio" />
       </a>
       <br/>
       <p align="left">
@@ -189,7 +189,7 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/AdvaithAcharya/CarePulse">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdvaithAcharya&repo=CarePulse&theme=tokyonight&border_color=00F0FF&border_radius=8&bg_color=0D1117&title_color=00F0FF&text_color=E2E8F0&icon_color=A855F7" width="100%" alt="CarePulse" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AdvaithAcharya&repo=CarePulse&theme=tokyonight&border_color=00F0FF&border_radius=8&bg_color=0D1117&title_color=00F0FF&text_color=E2E8F0&icon_color=A855F7" width="100%" alt="CarePulse" />
       </a>
       <br/>
       <p align="left">
@@ -207,7 +207,7 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/AdvaithAcharya/Krypton-Gateway">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdvaithAcharya&repo=Krypton-Gateway&theme=tokyonight&border_color=A855F7&border_radius=8&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0&icon_color=00F0FF" width="100%" alt="Krypton-Gateway" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AdvaithAcharya&repo=Krypton-Gateway&theme=tokyonight&border_color=A855F7&border_radius=8&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0&icon_color=00F0FF" width="100%" alt="Krypton-Gateway" />
       </a>
       <br/>
       <p align="left">
@@ -223,7 +223,7 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/AdvaithAcharya/LumaFix">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdvaithAcharya&repo=LumaFix&theme=tokyonight&border_color=A855F7&border_radius=8&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0&icon_color=00F0FF" width="100%" alt="LumaFix" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AdvaithAcharya&repo=LumaFix&theme=tokyonight&border_color=A855F7&border_radius=8&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0&icon_color=00F0FF" width="100%" alt="LumaFix" />
       </a>
       <br/>
       <p align="left">
@@ -241,7 +241,7 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/AdvaithAcharya/ParkVision">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdvaithAcharya&repo=ParkVision&theme=tokyonight&border_color=22C55E&border_radius=8&bg_color=0D1117&title_color=22C55E&text_color=E2E8F0&icon_color=00F0FF" width="100%" alt="ParkVision" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AdvaithAcharya&repo=ParkVision&theme=tokyonight&border_color=22C55E&border_radius=8&bg_color=0D1117&title_color=22C55E&text_color=E2E8F0&icon_color=00F0FF" width="100%" alt="ParkVision" />
       </a>
       <br/>
       <p align="left">
@@ -257,7 +257,7 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/AdvaithAcharya/Work">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdvaithAcharya&repo=Work&theme=tokyonight&border_color=22C55E&border_radius=8&bg_color=0D1117&title_color=22C55E&text_color=E2E8F0&icon_color=00F0FF" width="100%" alt="Work" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AdvaithAcharya&repo=Work&theme=tokyonight&border_color=22C55E&border_radius=8&bg_color=0D1117&title_color=22C55E&text_color=E2E8F0&icon_color=00F0FF" width="100%" alt="Work" />
       </a>
       <br/>
       <p align="left">
@@ -295,19 +295,19 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
   <tr>
     <td width="50%" align="center" valign="middle">
       <a href="https://github.com/AdvaithAcharya">
-        <img src="https://github-readme-stats.vercel.app/api?username=AdvaithAcharya&show_icons=true&theme=tokyonight&border_color=00F0FF&border_radius=8&bg_color=0D1117&title_color=00F0FF&text_color=E2E8F0&icon_color=A855F7" width="100%" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=AdvaithAcharya&show_icons=true&theme=tokyonight&border_color=00F0FF&border_radius=8&bg_color=0D1117&title_color=00F0FF&text_color=E2E8F0&icon_color=A855F7" width="100%" alt="GitHub Stats" />
       </a>
     </td>
     <td width="50%" align="center" valign="middle">
       <a href="https://github.com/AdvaithAcharya">
-        <img src="https://streak-stats.demolab.com/?user=AdvaithAcharya&theme=tokyonight&background=0D1117&border=22C55E&border_radius=8&ring=00F0FF&fire=22C55E&currStreakNum=00F0FF&currStreakLabel=A855F7&sideNums=E2E8F0&sideLabels=A855F7&dates=94A3B8" width="100%" alt="GitHub Streak" />
+        <img src="https://streak-stats.vercel.app/?user=AdvaithAcharya&theme=tokyonight&background=0D1117&border=22C55E&border_radius=8&ring=00F0FF&fire=22C55E&currStreakNum=00F0FF&currStreakLabel=A855F7&sideNums=E2E8F0&sideLabels=A855F7&dates=94A3B8" width="100%" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="middle">
       <a href="https://github.com/AdvaithAcharya">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdvaithAcharya&layout=compact&theme=tokyonight&border_color=A855F7&border_radius=8&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0" width="100%" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AdvaithAcharya&layout=compact&theme=tokyonight&border_color=A855F7&border_radius=8&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0" width="100%" alt="Top Languages" />
       </a>
     </td>
     <td width="50%" align="center" valign="middle">
