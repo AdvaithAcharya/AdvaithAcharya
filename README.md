@@ -300,7 +300,7 @@ status: "Ready to engineer resilient, high-impact systems 🚀"
     </td>
     <td width="50%" align="center" valign="middle">
       <a href="https://github.com/AdvaithAcharya">
-        <img src="https://streak-stats.vercel.app/?user=AdvaithAcharya&theme=tokyonight&background=0D1117&border=22C55E&border_radius=8&ring=00F0FF&fire=22C55E&currStreakNum=00F0FF&currStreakLabel=A855F7&sideNums=E2E8F0&sideLabels=A855F7&dates=94A3B8" width="100%" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=AdvaithAcharya&theme=tokyonight&background=0D1117&border=22C55E&border_radius=8&ring=00F0FF&fire=22C55E&currStreakNum=00F0FF&currStreakLabel=A855F7&sideNums=E2E8F0&sideLabels=A855F7&dates=94A3B8" width="100%" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
